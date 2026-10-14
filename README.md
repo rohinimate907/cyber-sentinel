@@ -1,4 +1,4 @@
-**SentinelRecon**
+# PentestX 🎯
 
 <div align="center">
   <img src="assets/image/header.png" alt="PentestX - Advanced Reconnaissance Tool" width="800"/>
