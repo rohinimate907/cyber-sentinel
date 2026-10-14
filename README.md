@@ -1,4 +1,4 @@
-# PentestX 🎯
+**SentinelRecon**
 
 <div align="center">
   <img src="assets/image/header.png" alt="PentestX - Advanced Reconnaissance Tool" width="800"/>
@@ -292,4 +292,3 @@ Built with powerful technologies:
 git clone https://github.com/L4stPL4Y3R/pentestnetlas.git && cd pentestx && ./install.sh
 ```
 
-*Built with ❤️ for the cybersecurity community*
